@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "IUS/qgpLpzyKFgP0KZ8p57y7uJwAHrsAsASMIvraZZVyJ0zy6bRX3zCQdhyyK3IyVogFHdeXiWtI0J7QurNV0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kotya\\Desktop\\2.3.33333\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kotya\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\kotya\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\kotya\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\kotya\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
